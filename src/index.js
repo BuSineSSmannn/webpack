@@ -1,9 +1,10 @@
 import {config} from './modules/config'
 import AppService from './modules/app.service'
+import 'bootstrap'
 import './modules/header.component'
+import './scss/index.scss'
 import './style/style.css'
 import './less/index.less'
-import './scss/index.scss'
 
 
 console.log(config)
