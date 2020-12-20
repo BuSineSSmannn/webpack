@@ -1,0 +1,8 @@
+@import "./var";
+
+$width: 1200px;
+body{
+    border: $border;
+    width: $width;
+    margin: 0 auto;
+}

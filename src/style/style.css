@@ -1,0 +1,12 @@
+@import './test.css';
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.box{
+    width: 600px;
+    background-color: yellow;
+}
